@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -164,7 +164,6 @@
 				3887E14A60A31F7A59761890 /* Pods-ClearWaterMarkTests.debug.xcconfig */,
 				9489AB2A3874FA0DBC115D0E /* Pods-ClearWaterMarkTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -596,7 +595,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = zhangc.ClearWaterMark;
+				PRODUCT_BUNDLE_IDENTIFIER = com.intbull.clearwatermark;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -614,7 +613,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = zhangc.ClearWaterMark;
+				PRODUCT_BUNDLE_IDENTIFIER = com.intbull.clearwatermark;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
